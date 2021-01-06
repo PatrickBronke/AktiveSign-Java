@@ -1,0 +1,5 @@
+name: AktiveSign
+main: de.pbplugins.java.aktivesign.AktiveSign
+version: 0.1.0
+author: PatrickBronke
+description: "Commands for Sign"
